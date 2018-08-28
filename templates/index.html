@@ -9,6 +9,9 @@
 {#    <h1 style="background-color: antiquewhite;color: black">Hello Wei!</h1>#}
 {#</body>#}
 {#</html>#}
+{% load static %}
+
+<link rel="stylesheet" type="text/css" href="{% static 'login/style.css' %}">
 {% if latest_question_list %}
     <ul>
     {% for question in latest_question_list %}
