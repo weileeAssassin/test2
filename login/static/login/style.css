@@ -1,0 +1,9 @@
+li a {
+    color: green;
+}
+h1 a {
+    color: red;
+}
+body {
+    background: white url("images/1.jpg") no-repeat;
+}
