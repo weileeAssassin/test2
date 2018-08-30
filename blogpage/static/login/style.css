@@ -1,0 +1,23 @@
+li a {
+    color: green;
+}
+li {
+    color: deeppink;
+}
+h1 {
+    color: red;
+}
+
+label {
+    color: yellow;
+}
+
+input {
+    color: black;
+}
+
+body {
+    background: white url("images/1.jpg") no-repeat fixed center;
+    padding-left: 25px;
+    padding-top: 15px;
+}
