@@ -25,7 +25,7 @@ SECRET_KEY = 'b7(x@7ev*0966ty=n2p-xgrj133m%#_i7*6w3c*g1)-egu@h1d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost','54.180.8.139']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost','54.180.8.139','13.124.225.122']
 
 
 # Application definition
@@ -125,4 +125,4 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'login/static')
+STATIC_ROOT = '/root/learnDjango/test1/static'
