@@ -24,6 +24,7 @@ SECRET_KEY = 'b7(x@7ev*0966ty=n2p-xgrj133m%#_i7*6w3c*g1)-egu@h1d'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
+#DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost','54.180.8.139','13.124.225.122']
 
